@@ -1,0 +1,18 @@
+.navconteiner{
+    width: 1300px;
+    margin-top: 35px;
+    height: 50px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+.izq{
+     display: flex;
+     flex-direction: row;
+ }
+   
+ 
+ 
